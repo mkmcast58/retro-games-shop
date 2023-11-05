@@ -47,7 +47,7 @@
 - MySQL Workbench to create database
 
 ## Usage
-- Download files
+- Clone repository
 - Extract files from _database-example_ zip folder
 - Run database scripts
 - Run backend project from _springboot-keyshop-main_ folder in InteliJ IDE _(File->open->pom.xml)_
