@@ -50,10 +50,9 @@
 - Download files
 - Extract files from _database-example_ zip folder
 - Run database scripts
-- Run backend project in InteliJ IDE _(File->open->pom.xml)_
-- open _angular-keyshop_ folder in terminal or IDE integrated terminal and run command `npm-start`
-- 
-
+- Run backend project from _springboot-keyshop-main_ folder in InteliJ IDE _(File->open->pom.xml)_
+- open _angular-keyshop-master_ folder in terminal or IDE integrated terminal and run command `npm-install` and then `npm-start`
+  
 
 ## Project Status
 _in progress_.
